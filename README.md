@@ -5,7 +5,9 @@ A website to use as practice and template for landing page
 
 This is a website to showcase and practice my use of CSS grid/flexbox and templating tools.
 
-- Site must be responsive
-- Must be easily read and quickly deployed
-- Must be suitable for a real use situation
-- Must include a functionality for email sign up
+# Things done
+
+- Created a sticky nav bar (no real links)
+- Created an animation with cdn from animate.css
+- Site is responsive (still a but ugly but with colors etc, but functionality is there)
+
